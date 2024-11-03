@@ -5,7 +5,7 @@
 This is a chat application built in Flutter that allows users to log in using phone OTP via Supabase Authentication and chat with an AI-powered Large Language Model (LLM) using Cohere. The app provides a seamless user experience for real-time chat and stores message history for users.
 
 APK File
-The release APK of the application can be downloaded from the following link: Download APK
+The release APK of the application can be downloaded from the following link: [Download APK](https://drive.google.com/file/d/1YC8-igOXwWPGG3Ms891cNwQ6xmZn5lLd/view?usp=sharing)
 
 ## Features
 
